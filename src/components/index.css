@@ -1,0 +1,10 @@
+nav ul a.active {
+  border-radius: 8px;
+  background: var(--White-95, #f1f1f3);
+  padding: 10px;
+  gap: 10px;
+}
+
+/* .gfndf{
+  transition: ;
+} */
